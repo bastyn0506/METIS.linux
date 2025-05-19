@@ -1,0 +1,405 @@
+{"timestamp": "2025-05-16 13:45:25", "test": "Initial log from modular version"}
+{"timestamp": "2025-05-16 13:45:25", "type": "spoof_alert", "src_ip": "172.31.3.177", "dst_ip": "239.255.255.250", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:25", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:45:25", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "51.104.15.252", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:45:26", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "51.104.15.252", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:45:26", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "51.104.15.252", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:45:26", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "51.104.15.252", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:45:26", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "51.104.15.252", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:45:26", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "51.104.15.252", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:45:26", "type": "spoof_alert", "src_ip": "172.31.3.177", "dst_ip": "239.255.255.250", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:27", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "51.104.15.252", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:45:27", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "51.104.15.252", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:45:27", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "51.104.15.252", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:45:27", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "3.233.158.25", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:45:27", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "3.233.158.25", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:45:27", "type": "spoof_alert", "src_ip": "172.31.3.177", "dst_ip": "239.255.255.250", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:29", "type": "spoof_alert", "src_ip": "172.31.0.138", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:29", "type": "spoof_alert", "src_ip": "172.31.0.138", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:29", "type": "spoof_alert", "src_ip": "172.31.0.138", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:30", "type": "spoof_alert", "src_ip": "172.31.0.138", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:30", "type": "spoof_alert", "src_ip": "172.31.0.138", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:30", "type": "spoof_alert", "src_ip": "172.31.0.138", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:32", "type": "spoof_alert", "src_ip": "172.31.3.71", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:32", "type": "spoof_alert", "src_ip": "172.31.4.103", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:32", "type": "spoof_alert", "src_ip": "172.31.4.103", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:32", "type": "spoof_alert", "src_ip": "172.31.4.103", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.4.103", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.3.71", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.2.100", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.3.134", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.3.134", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.3.134", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.3.134", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.3.134", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.3.134", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.3.134", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.2.208", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.0.147", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.2.213", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.3.27", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.2.180", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.2.205", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.2.205", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.2.205", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.2.205", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.2.205", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.2.205", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.2.205", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.2.205", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.2.205", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.2.205", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.2.165", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.2.165", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.2.146", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.3.59", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.3.130", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.3.70", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.2.201", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.2.200", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.3.48", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.2.140", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.2.190", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.0.138", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.2.196", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.2.143", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.3.30", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.4.103", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:33", "type": "spoof_alert", "src_ip": "172.31.4.103", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:45:35", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.89.179.11", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:45:35", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.89.179.11", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:45:35", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.89.179.11", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:45:35", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.89.179.11", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:45:35", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "44.209.32.89", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:45:35", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.89.179.11", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:04", "test": "Initial log from modular version"}
+{"timestamp": "2025-05-16 13:47:04", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "104.208.16.92", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:04", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "104.208.16.92", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:04", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "104.208.16.92", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:05", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:05", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:05", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.89.179.11", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:05", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.89.179.11", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:05", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.89.179.11", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:05", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "104.208.16.92", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:05", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "104.208.16.92", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:05", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "104.208.16.92", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:05", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.89.179.11", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:05", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.89.179.11", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:06", "type": "spoof_alert", "src_ip": "172.31.2.88", "dst_ip": "224.0.0.22", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:47:06", "type": "spoof_alert", "src_ip": "172.31.2.88", "dst_ip": "224.0.0.22", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:47:08", "type": "spoof_alert", "src_ip": "172.31.1.253", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:47:10", "type": "spoof_alert", "src_ip": "172.31.2.29", "dst_ip": "224.0.0.2", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:47:10", "type": "spoof_alert", "src_ip": "172.31.2.29", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:47:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "3.233.158.24", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "3.233.158.24", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:11", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "3.231.72.45", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:12", "type": "spoof_alert", "src_ip": "172.31.3.48", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:47:12", "type": "spoof_alert", "src_ip": "172.31.3.48", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:47:13", "type": "spoof_alert", "src_ip": "172.31.3.48", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:47:13", "type": "spoof_alert", "src_ip": "172.31.3.48", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:47:13", "type": "spoof_alert", "src_ip": "172.31.3.48", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:47:13", "type": "spoof_alert", "src_ip": "172.31.3.48", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:47:14", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:14", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "20.189.173.24", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:14", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "20.189.173.24", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:14", "type": "spoof_alert", "src_ip": "172.31.3.173", "dst_ip": "239.255.255.250", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:47:14", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "20.189.173.24", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:14", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "20.189.173.24", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:14", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "20.189.173.24", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:14", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "20.189.173.24", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.31.189", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.31.189", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.31.189", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "20.189.173.24", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "20.189.173.24", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "20.189.173.24", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.31.189", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.31.189", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.31.189", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.31.189", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.31.189", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.31.189", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.31.189", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.221.70.13", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.31.189", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.221.70.13", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.221.70.13", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.221.70.13", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.31.189", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.221.70.13", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.5.93", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.5.93", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.5.93", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.5.93", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.5.93", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.5.93", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.5.93", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:47:15", "type": "spoof_alert", "src_ip": "172.31.3.173", "dst_ip": "239.255.255.250", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:47:16", "type": "spoof_alert", "src_ip": "172.31.3.173", "dst_ip": "239.255.255.250", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:51:58", "test": "Initial log from modular version"}
+{"timestamp": "2025-05-16 13:51:58", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "20.42.72.131", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:51:58", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "20.42.72.131", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:51:58", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "52.182.143.210", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:51:58", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "52.182.143.210", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:51:58", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "52.182.143.210", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:51:58", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "20.42.72.131", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:51:58", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "52.182.143.210", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:51:59", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "52.182.143.210", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:51:59", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "52.182.143.210", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:51:59", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "52.182.143.210", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:51:59", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "52.182.143.210", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:51:59", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "52.182.143.210", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:51:59", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "52.182.143.210", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:51:59", "type": "spoof_alert", "src_ip": "172.31.3.78", "dst_ip": "224.0.0.2", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:51:59", "type": "spoof_alert", "src_ip": "172.31.3.78", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:52:00", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:00", "type": "spoof_alert", "src_ip": "172.31.3.236", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:52:00", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.85.10", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.85.10", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.85.10", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "3.231.72.45", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.85.10", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:03", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.85.74", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:05", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:05", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "52.109.52.0", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:05", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:05", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "52.109.52.0", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:05", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:05", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:06", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:06", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:06", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:06", "type": "spoof_alert", "src_ip": "172.31.0.147", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:52:06", "type": "spoof_alert", "src_ip": "172.31.0.147", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:52:06", "type": "spoof_alert", "src_ip": "172.31.0.147", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:52:06", "type": "spoof_alert", "src_ip": "172.31.0.147", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:52:06", "type": "spoof_alert", "src_ip": "172.31.0.147", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:52:06", "type": "spoof_alert", "src_ip": "172.31.0.147", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:52:07", "type": "spoof_alert", "src_ip": "172.31.1.253", "dst_ip": "224.0.0.2", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:52:07", "type": "spoof_alert", "src_ip": "172.31.1.253", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "64.233.188.188", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "52.109.52.0", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.85.10", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.85.10", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.85.10", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.18.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.18.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.18.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.18.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "52.109.52.0", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.18.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.18.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.18.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.18.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.18.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.18.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.18.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.18.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.18.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.18.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.18.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.85.10", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.85.10", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:10", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "1.1.1.1", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:11", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:11", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "51.104.34.11", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:11", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:11", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "51.104.34.11", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:11", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "51.104.34.11", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:11", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:11", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "4.213.25.240", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:11", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "51.104.34.11", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:11", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "51.104.34.11", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:11", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:11", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "51.104.34.11", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:11", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "51.104.34.11", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:11", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "51.104.34.11", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:11", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "51.104.34.11", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:11", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:12", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:12", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "51.104.34.11", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:12", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "51.104.34.11", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:12", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:12", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:12", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:12", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:12", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:12", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:12", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:12", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:12", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:12", "type": "spoof_alert", "src_ip": "172.31.3.130", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:52:12", "type": "spoof_alert", "src_ip": "172.31.3.130", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:52:12", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "51.104.34.11", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:12", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "51.104.34.11", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:12", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:12", "type": "spoof_alert", "src_ip": "172.31.3.130", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:52:12", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "51.104.34.11", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:12", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "204.79.197.222", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:12", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "204.79.197.222", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:12", "type": "spoof_alert", "src_ip": "172.31.3.130", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.3.130", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.3.130", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.213.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.213.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.213.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.213.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.213.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.236.42", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.236.42", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.236.42", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.213.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.213.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.213.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.213.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.236.42", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.213.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "150.171.85.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "150.171.85.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "150.171.85.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "150.171.85.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "150.171.85.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "150.171.85.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "150.171.85.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "150.171.85.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "150.171.85.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "150.171.85.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:52:13", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:01", "test": "Initial log from modular version"}
+{"timestamp": "2025-05-16 13:55:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "20.42.72.131", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "20.42.72.131", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "20.42.72.131", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "20.189.173.13", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "20.189.173.13", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "20.189.173.13", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "20.42.72.131", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "20.189.173.13", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.85.10", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.85.10", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.85.10", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "20.42.72.131", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.85.10", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.85.10", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.85.10", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.85.10", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.85.10", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.85.10", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.85.10", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.85.10", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.85.10", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "20.189.173.13", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "20.189.173.13", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.85.10", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:01", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.85.10", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:02", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "20.189.173.13", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:02", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "20.189.173.13", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:02", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "20.189.173.13", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:02", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "20.42.72.131", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:02", "type": "spoof_alert", "src_ip": "172.31.2.15", "dst_ip": "224.0.0.22", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:02", "type": "spoof_alert", "src_ip": "172.31.2.15", "dst_ip": "224.0.0.22", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:02", "type": "spoof_alert", "src_ip": "172.31.1.242", "dst_ip": "239.255.255.250", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:04", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "3.231.72.45", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:05", "type": "spoof_alert", "src_ip": "172.31.2.146", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:05", "type": "spoof_alert", "src_ip": "172.31.2.146", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:05", "type": "spoof_alert", "src_ip": "172.31.2.146", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:05", "type": "spoof_alert", "src_ip": "172.31.2.146", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:05", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "23.208.236.42", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:05", "type": "spoof_alert", "src_ip": "172.31.2.146", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:05", "type": "spoof_alert", "src_ip": "172.31.2.146", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:44", "test": "Initial log from modular version"}
+{"timestamp": "2025-05-16 13:55:46", "type": "spoof_alert", "src_ip": "172.31.2.212", "dst_ip": "239.255.255.250", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:46", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "52.224.108.169", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:47", "type": "spoof_alert", "src_ip": "172.31.2.212", "dst_ip": "239.255.255.250", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:47", "type": "spoof_alert", "src_ip": "172.31.2.51", "dst_ip": "224.0.0.2", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:47", "type": "spoof_alert", "src_ip": "172.31.2.51", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:48", "type": "spoof_alert", "src_ip": "172.31.1.242", "dst_ip": "239.255.255.250", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:48", "type": "spoof_alert", "src_ip": "172.31.3.157", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:48", "type": "spoof_alert", "src_ip": "172.31.2.212", "dst_ip": "239.255.255.250", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:48", "type": "spoof_alert", "src_ip": "172.31.2.152", "dst_ip": "224.0.0.22", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:48", "type": "spoof_alert", "src_ip": "172.31.4.142", "dst_ip": "239.255.255.250", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:48", "type": "spoof_alert", "src_ip": "172.31.4.142", "dst_ip": "239.255.255.250", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:48", "type": "spoof_alert", "src_ip": "172.31.4.142", "dst_ip": "239.255.255.250", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:49", "type": "spoof_alert", "src_ip": "172.31.2.201", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:49", "type": "spoof_alert", "src_ip": "172.31.2.201", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:49", "type": "spoof_alert", "src_ip": "172.31.2.212", "dst_ip": "239.255.255.250", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:49", "type": "spoof_alert", "src_ip": "172.31.2.201", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:49", "type": "spoof_alert", "src_ip": "172.31.2.201", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:49", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "3.231.72.45", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:55:49", "type": "spoof_alert", "src_ip": "172.31.3.59", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:49", "type": "spoof_alert", "src_ip": "172.31.3.59", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:50", "type": "spoof_alert", "src_ip": "172.31.2.201", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:50", "type": "spoof_alert", "src_ip": "172.31.2.201", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:50", "type": "spoof_alert", "src_ip": "172.31.3.59", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:50", "type": "spoof_alert", "src_ip": "172.31.3.59", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:50", "type": "spoof_alert", "src_ip": "172.31.3.59", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:55:50", "type": "spoof_alert", "src_ip": "172.31.3.59", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:56:24", "test": "Initial log from modular version"}
+{"timestamp": "2025-05-16 13:56:25", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:56:25", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:56:25", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:56:25", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:56:25", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:56:25", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:56:25", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:56:25", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:56:25", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:56:25", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:56:25", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:56:25", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:56:25", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "142.251.42.132", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:56:25", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "142.251.42.132", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:56:25", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "142.251.42.132", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:56:25", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:56:25", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "142.251.42.132", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:56:25", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "142.251.42.132", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:56:25", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "142.251.42.132", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:56:25", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "142.251.42.132", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:56:26", "type": "spoof_alert", "src_ip": "172.31.2.143", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:56:26", "type": "spoof_alert", "src_ip": "172.31.2.143", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:56:26", "type": "spoof_alert", "src_ip": "172.31.2.143", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:56:27", "type": "spoof_alert", "src_ip": "172.31.2.143", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:56:27", "type": "spoof_alert", "src_ip": "172.31.2.143", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:56:27", "type": "spoof_alert", "src_ip": "172.31.2.143", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 13:56:27", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "52.224.108.169", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:56:27", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "52.224.108.169", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:56:27", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "52.224.108.169", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:56:28", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "151.101.65.91", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 13:56:30", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "13.107.213.254", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 14:01:48", "test": "Initial log from modular version"}
+{"timestamp": "2025-05-16 14:01:51", "type": "spoof_alert", "src_ip": "172.31.2.212", "dst_ip": "239.255.255.250", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 14:01:57", "type": "spoof_alert", "src_ip": "172.31.2.201", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 14:01:59", "type": "spoof_alert", "src_ip": "172.31.2.201", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 14:02:01", "type": "spoof_alert", "src_ip": "172.31.2.201", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 14:02:03", "type": "spoof_alert", "src_ip": "172.31.2.201", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 14:02:05", "type": "spoof_alert", "src_ip": "172.31.3.59", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 14:02:07", "type": "spoof_alert", "src_ip": "172.31.3.59", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 14:02:09", "type": "spoof_alert", "src_ip": "172.31.2.201", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 14:02:11", "type": "spoof_alert", "src_ip": "172.31.2.201", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 14:02:13", "type": "spoof_alert", "src_ip": "172.31.3.59", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 14:02:15", "type": "spoof_alert", "src_ip": "172.31.3.59", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 14:02:17", "type": "spoof_alert", "src_ip": "172.31.3.59", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 14:02:19", "type": "spoof_alert", "src_ip": "172.31.3.59", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}
+{"timestamp": "2025-05-16 14:02:23", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "3.231.72.45", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 14:02:25", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.107.172.168", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 14:02:28", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "34.111.113.40", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}
+{"timestamp": "2025-05-16 14:02:32", "type": "spoof_alert", "src_ip": "172.31.2.80", "dst_ip": "8.8.8.8", "reason": "invalid_checksum", "alert": "IP checksum mismatch detected"}

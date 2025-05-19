@@ -1,0 +1,13 @@
+{"type": "packet", "src": "52.168.117.174", "dst": "172.16.15.19", "src_country": "United States", "dst_country": "Unknown", "protocol": "TCP", "size": 60, "src_port": 443, "dst_port": 52921, "payload": null}
+{"type": "packet", "src": "172.16.15.19", "dst": "52.168.117.174", "src_country": "Unknown", "dst_country": "United States", "protocol": "TCP", "size": 54, "src_port": 52921, "dst_port": 443, "payload": null}
+{"type": "packet", "src": "172.16.15.19", "dst": "23.37.92.189", "src_country": "Unknown", "dst_country": "Japan", "protocol": "TCP", "size": 54, "src_port": 52459, "dst_port": 443, "payload": null}
+{"type": "packet", "src": "172.16.15.19", "dst": "20.141.12.34", "src_country": "Unknown", "dst_country": "United States", "protocol": "TCP", "size": 54, "src_port": 52626, "dst_port": 443, "payload": null}
+{"timestamp": "2025-05-17 00:01:01", "test": "初期動作確認ログ"}
+{"timestamp": "2025-05-17 00:01:19", "type": "tor_exit_detected", "src_ip": "10.0.0.2", "alert": "Tor exit node detected"}
+{"timestamp": "2025-05-17 00:01:21", "type": "untrusted_device_detected", "src_ip": "10.0.0.2", "alert": "Untrusted device communication detected"}
+{"type": "packet", "src": "10.0.0.2", "dst": "224.0.0.251", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "UDP", "size": 278, "src_port": 5353, "dst_port": 5353, "payload": null}
+{"timestamp": "2025-05-17 00:01:27", "type": "tor_exit_detected", "src_ip": "10.0.0.2", "alert": "Tor exit node detected"}
+{"timestamp": "2025-05-17 00:01:29", "type": "untrusted_device_detected", "src_ip": "10.0.0.2", "alert": "Untrusted device communication detected"}
+{"type": "packet", "src": "10.0.0.2", "dst": "224.0.0.251", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "UDP", "size": 102, "src_port": 5353, "dst_port": 5353, "payload": null}
+{"timestamp": "2025-05-17 00:02:47", "type": "tor_exit_detected", "src_ip": "10.0.0.2", "alert": "Tor exit node detected"}
+{"timestamp": "2025-05-17 00:02:51", "type": "spoof_alert", "src_ip": "10.0.0.2", "dst_ip": "224.0.0.251", "reason": "suspicious_ttl", "alert": "Suspiciously low TTL value detected"}

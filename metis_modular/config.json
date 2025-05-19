@@ -1,0 +1,7 @@
+{
+    "scan_threshold_seconds": 10,
+    "scan_threshold_ports": 4,
+    "dangerous_ports": [
+        22
+    ]
+}

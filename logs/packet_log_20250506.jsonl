@@ -1,0 +1,25 @@
+{"timestamp": "2025-05-06 00:00:39", "test": "初期動作確認ログ"}
+{"timestamp": "2025-05-06 00:01:03", "type": "dangerous_port_detected", "src_ip": "10.0.0.1", "dst_ip": "10.0.0.2", "protocol": "TCP", "src_port": 36596, "dst_port": 23, "size": 60, "country": "Unknown", "alert": "Access to dangerous port 23"}
+{"type": "packet", "src": "10.0.0.1", "dst": "10.0.0.2", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "TCP", "size": 60, "src_port": 36596, "dst_port": 23, "payload": null}
+{"timestamp": "2025-05-06 00:01:09", "type": "dangerous_port_detected", "src_ip": "10.0.0.1", "dst_ip": "10.0.0.2", "protocol": "TCP", "src_port": 36602, "dst_port": 23, "size": 60, "country": "Unknown", "alert": "Access to dangerous port 23"}
+{"type": "packet", "src": "10.0.0.1", "dst": "10.0.0.2", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "TCP", "size": 60, "src_port": 36602, "dst_port": 23, "payload": null}
+{"timestamp": "2025-05-06 00:03:37", "test": "初期動作確認ログ"}
+{"timestamp": "2025-05-06 00:03:55", "type": "dangerous_port_detected", "src_ip": "10.0.0.1", "dst_ip": "10.0.0.2", "protocol": "TCP", "src_port": 51834, "dst_port": 23, "size": 60, "country": "Unknown", "alert": "Access to dangerous port 23"}
+{"type": "packet", "src": "10.0.0.1", "dst": "10.0.0.2", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "TCP", "size": 60, "src_port": 51834, "dst_port": 23, "payload": null}
+{"timestamp": "2025-05-06 00:04:01", "type": "dangerous_port_detected", "src_ip": "10.0.0.1", "dst_ip": "10.0.0.2", "protocol": "TCP", "src_port": 51850, "dst_port": 23, "size": 60, "country": "Unknown", "alert": "Access to dangerous port 23"}
+{"type": "packet", "src": "10.0.0.1", "dst": "10.0.0.2", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "TCP", "size": 60, "src_port": 51850, "dst_port": 23, "payload": null}
+{"type": "packet", "src": "10.0.0.1", "dst": "10.0.0.2", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "TCP", "size": 60, "src_port": 47652, "dst_port": 23, "payload": null}
+{"type": "packet", "src": "10.0.0.1", "dst": "10.0.0.2", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "TCP", "size": 60, "src_port": 36870, "dst_port": 23, "payload": null}
+{"type": "packet", "src": "10.0.0.1", "dst": "10.0.0.2", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "TCP", "size": 60, "src_port": 41478, "dst_port": 60, "payload": null}
+{"type": "packet", "src": "10.0.0.1", "dst": "10.0.0.2", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "TCP", "size": 60, "src_port": 44570, "dst_port": 40, "payload": null}
+{"type": "packet", "src": "10.0.0.1", "dst": "10.0.0.2", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "TCP", "size": 60, "src_port": 36106, "dst_port": 10, "payload": null}
+{"timestamp": "2025-05-06 00:06:23", "type": "scan_detected", "src_ip": "10.0.0.1", "dst_ip": null, "protocol": null, "src_port": null, "dst_port": null, "size": 0, "country": "Unknown", "alert": "Port scan detected"}
+{"type": "packet", "src": "10.0.0.1", "dst": "10.0.0.2", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "TCP", "size": 60, "src_port": 50464, "dst_port": 20, "payload": null}
+{"type": "packet", "src": "10.0.0.1", "dst": "10.0.0.2", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "TCP", "size": 60, "src_port": 55280, "dst_port": 50, "payload": null}
+{"type": "packet", "src": "10.0.0.1", "dst": "10.0.0.2", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "TCP", "size": 60, "src_port": 43732, "dst_port": 30, "payload": null}
+{"type": "packet", "src": "10.0.0.1", "dst": "10.0.0.2", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "TCP", "size": 60, "src_port": 43744, "dst_port": 30, "payload": null}
+{"type": "packet", "src": "10.0.0.1", "dst": "10.0.0.2", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "TCP", "size": 60, "src_port": 55288, "dst_port": 50, "payload": null}
+{"type": "packet", "src": "10.0.0.1", "dst": "10.0.0.2", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "TCP", "size": 60, "src_port": 50476, "dst_port": 20, "payload": null}
+{"type": "packet", "src": "10.0.0.1", "dst": "10.0.0.2", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "TCP", "size": 60, "src_port": 36108, "dst_port": 10, "payload": null}
+{"timestamp": "2025-05-06 00:07:08", "type": "scan_detected", "src_ip": "10.0.0.1", "dst_ip": null, "protocol": null, "src_port": null, "dst_port": null, "size": 0, "country": "Unknown", "alert": "Port scan detected"}
+{"type": "packet", "src": "10.0.0.1", "dst": "10.0.0.2", "src_country": "Unknown", "dst_country": "Unknown", "protocol": "TCP", "size": 60, "src_port": 44580, "dst_port": 40, "payload": null}
