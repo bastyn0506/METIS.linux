@@ -5,7 +5,7 @@ It uses Unity to visualize network nodes and traffic flows, while Python (Scapy)
 
 > 📩 Feedback or questions? Contact us:  
 > Email: `vanson.norton0506@icluod.com`  
-> [日本語版はこちら（Japanese README）](https://github.com/bastyn0506/METIS/blob/main/README.md)
+> [日本語版はこちら（Japanese README）](https://github.com/bastyn0506/METIS.linux/blob/main/README.md)
 
 ⚠️ **Disclaimer**  
 This tool is intended for **educational and research purposes only**.  
