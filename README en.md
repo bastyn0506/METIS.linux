@@ -43,6 +43,11 @@ Use in production environments is at your own risk. METIS is designed to raise s
 
 ---
 
+Developed by a cybersecurity student with CTF experience and interest in real-world security visualization.  
+More info: [GitHub Profile](https://youtu.be/-eKr9tY0Bhc)
+
+---
+
 ## 🚀 Planned Features
 
 - Automatic IoC synchronization with MISP
